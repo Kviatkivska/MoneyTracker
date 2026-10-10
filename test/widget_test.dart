@@ -10,7 +10,7 @@ void main() {
   // ---------------------------------------------------------
   // TEST 1: Overview screen
   // ---------------------------------------------------------
-
+//test new changes in git
   testWidgets(
     'Overview screen displays calculated income, expenses and balance',
     (WidgetTester tester) async {
