@@ -92,7 +92,7 @@ class _MainScreenState extends State<MainScreen> {
         onSave: _addTransaction,
       ),
     ];
-
+//Main build
     return Scaffold(
       appBar: AppBar(
         title: const Text('Money Tracker'),
