@@ -95,7 +95,7 @@ class _MainScreenState extends State<MainScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('MoneyFlow'),
+        title: const Text('Money Tracker'),
       ),
 
       body: isLoading
